@@ -10,3 +10,4 @@ public class add{
         System.out.println("the sum is = "+ c);
     }
 }
+////cgs
