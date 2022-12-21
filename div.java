@@ -1,3 +1,4 @@
+//this file has been modified by aniket
 import java.util.*;
 public class div{
     public static void main(String args[]){
@@ -9,6 +10,4 @@ public class div{
         int c= a/b;
         System.out.println("the division is = "+ c);
     }
-}
-}
 }
