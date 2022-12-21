@@ -10,3 +10,5 @@ public class div{
         System.out.println("the division is = "+ c);
     }
 }
+}
+}
